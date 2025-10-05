@@ -46,5 +46,5 @@ Chaque aide compte pour faire avancer ce projet.
 - Nîmes 
 - Nom du réseau social : Echø
 - Url si possible bientot : echo.com
-- Je vais bientôt crée un serveur discord pour crée cela : Bientôt
+- Serveur Discord de 𝙀𝙘𝙝𝙤 discord.gg/5KypvVDqSq
 
