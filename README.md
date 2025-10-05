@@ -41,8 +41,8 @@ Chaque aide compte pour faire avancer ce projet.
 ---
 
 ## Auteur
-Noxa, 16 ans  
-Développeur indépendant 
-Nîmes 
-Nom du réseau social : en cours de réflexion
+- Noxa, 16 ans  
+- Développeur indépendant 
+- Nîmes 
+- Nom du réseau social : Echø
 
