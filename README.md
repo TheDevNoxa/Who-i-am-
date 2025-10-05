@@ -36,7 +36,7 @@ Chaque aide compte pour faire avancer ce projet.
 - Frontend : HTML5, CSS3, JavaScript  
 - Backend : PHP / Node.js (à confirmer)  
 - Données : fichiers JSON ou base SQLite  
-- Hébergement : InfinityFree (phase de test)
+- Hébergement : CloudFlares (phase de test)
 
 ---
 
@@ -45,4 +45,6 @@ Chaque aide compte pour faire avancer ce projet.
 - Développeur indépendant 
 - Nîmes 
 - Nom du réseau social : Echø
+- Url si possible bientot : echo.com
+- Je vais bientôt crée un serveur discord pour crée cela : Bientôt
 
